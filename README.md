@@ -48,6 +48,6 @@ This first image is a 3D graph to represent the three principal components. This
 
 A 2D graph can be used to show Total Coins Mined vs. Total Coin Supply.  This graph shows a potential correlation between these components.
 
-![3.png](Resources/3.png)
+![3.PNG](Resources/3.PNG)
 
 The hvplot library also features interactive tables that can display our new df in a tabular fasion. The table can be sorted in ascending or descending order.
